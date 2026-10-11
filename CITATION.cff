@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite Physics beyond the grid when using this research software."
+title: "Physics beyond the grid: reproducible experiments"
+authors:
+  - name: "Research contributors"
+version: 1.0.0
+date-released: 2026-10-11
+license: MIT
+type: software
+keywords:
+  - equation identification
+  - numerical analysis
+  - discretization error
+  - reproducibility

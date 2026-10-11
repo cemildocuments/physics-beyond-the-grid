@@ -1,0 +1,206 @@
+{
+  "rank": [
+    {
+      "reps": 2,
+      "grids": [
+        128
+      ],
+      "sigma_min": 2.005366298719969e-16,
+      "residual": 9.24256270995779e-07,
+      "rank": 0
+    },
+    {
+      "reps": 2,
+      "grids": [
+        96,
+        128
+      ],
+      "sigma_min": 3.491217748413884e-16,
+      "residual": 1.854407043662708e-06,
+      "rank": 0
+    },
+    {
+      "reps": 2,
+      "grids": [
+        64,
+        96,
+        128
+      ],
+      "sigma_min": 0.0008766255124176684,
+      "residual": 1.287980666326047e-05,
+      "rank": 12
+    },
+    {
+      "reps": 2,
+      "grids": [
+        32,
+        48,
+        64,
+        96,
+        128
+      ],
+      "sigma_min": 0.0032535924885643817,
+      "residual": 0.00018574231542878815,
+      "rank": 12
+    },
+    {
+      "reps": 8,
+      "grids": [
+        128
+      ],
+      "sigma_min": 2.250107381402158e-16,
+      "residual": 1.152954235155281e-06,
+      "rank": 0
+    },
+    {
+      "reps": 8,
+      "grids": [
+        96,
+        128
+      ],
+      "sigma_min": 4.539561709521727e-16,
+      "residual": 2.3846752717605555e-06,
+      "rank": 0
+    },
+    {
+      "reps": 8,
+      "grids": [
+        64,
+        96,
+        128
+      ],
+      "sigma_min": 0.0010073914008854907,
+      "residual": 1.190165517949643e-05,
+      "rank": 12
+    },
+    {
+      "reps": 8,
+      "grids": [
+        32,
+        48,
+        64,
+        96,
+        128
+      ],
+      "sigma_min": 0.0036506646552154267,
+      "residual": 0.00015558232199184224,
+      "rank": 12
+    },
+    {
+      "reps": 32,
+      "grids": [
+        128
+      ],
+      "sigma_min": 2.499465174035255e-16,
+      "residual": 1.1515538534398895e-06,
+      "rank": 0
+    },
+    {
+      "reps": 32,
+      "grids": [
+        96,
+        128
+      ],
+      "sigma_min": 8.847039555273281e-16,
+      "residual": 2.3660445767528655e-06,
+      "rank": 0
+    },
+    {
+      "reps": 32,
+      "grids": [
+        64,
+        96,
+        128
+      ],
+      "sigma_min": 0.0012275330472000644,
+      "residual": 1.11028990851938e-05,
+      "rank": 12
+    },
+    {
+      "reps": 32,
+      "grids": [
+        32,
+        48,
+        64,
+        96,
+        128
+      ],
+      "sigma_min": 0.004400792906714101,
+      "residual": 0.0001413668031630055,
+      "rank": 12
+    }
+  ],
+  "shared_bias": {
+    "declared_physical_diffusion": 0.002,
+    "shared_unmodelled_diffusion": 0.004,
+    "estimated_diffusion": 0.006004048725017312,
+    "sigma_min": 0.0010140462801586166,
+    "residual": 9.292826000790956e-05,
+    "rank": 12
+  },
+  "convergence": [
+    {
+      "kind": 0,
+      "nu": 0.0,
+      "spatial_relative_error": 3.27765076234709e-16,
+      "weak_residual": 5.71679813725811e-07,
+      "weak_residual_doubled": 3.3726440852309885e-08
+    },
+    {
+      "kind": 0,
+      "nu": 0.002,
+      "spatial_relative_error": 1.5472148536863224e-16,
+      "weak_residual": 5.730239644610759e-07,
+      "weak_residual_doubled": 3.378860918126637e-08
+    },
+    {
+      "kind": 0,
+      "nu": 0.02,
+      "spatial_relative_error": 1.121844656820663e-16,
+      "weak_residual": 5.836918987533945e-07,
+      "weak_residual_doubled": 3.428350741036546e-08
+    },
+    {
+      "kind": 1,
+      "nu": 0.0,
+      "spatial_relative_error": 3.0099794824472587e-09,
+      "weak_residual": 8.768326093275851e-07,
+      "weak_residual_doubled": 4.05085044830936e-08
+    },
+    {
+      "kind": 1,
+      "nu": 0.002,
+      "spatial_relative_error": 1.5561196876889122e-09,
+      "weak_residual": 8.803817583705463e-07,
+      "weak_residual_doubled": 4.059598461784811e-08
+    },
+    {
+      "kind": 1,
+      "nu": 0.02,
+      "spatial_relative_error": 6.647581146669873e-10,
+      "weak_residual": 9.053330124509559e-07,
+      "weak_residual_doubled": 4.125772004522878e-08
+    },
+    {
+      "kind": 2,
+      "nu": 0.0,
+      "spatial_relative_error": 1.8314667987404739e-09,
+      "weak_residual": 5.962733750588536e-07,
+      "weak_residual_doubled": 3.560927051065839e-08
+    },
+    {
+      "kind": 2,
+      "nu": 0.002,
+      "spatial_relative_error": 1.6713928179229066e-09,
+      "weak_residual": 5.964409693610317e-07,
+      "weak_residual_doubled": 3.5618077813711984e-08
+    },
+    {
+      "kind": 2,
+      "nu": 0.02,
+      "spatial_relative_error": 1.4933686808554496e-08,
+      "weak_residual": 5.976505004066914e-07,
+      "weak_residual_doubled": 3.5681753294767637e-08
+    }
+  ]
+}

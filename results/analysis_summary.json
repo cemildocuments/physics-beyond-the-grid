@@ -1,0 +1,7 @@
+{
+  "coefficient_estimates": 9720,
+  "datasets": 1080,
+  "unique_trial_blocks": 40,
+  "tensor_estimates": 1200,
+  "replication_max_coefficient_difference": 0.0
+}

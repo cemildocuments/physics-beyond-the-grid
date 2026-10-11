@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.venv/
+reproduced/
+.DS_Store
